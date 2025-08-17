@@ -22,10 +22,10 @@ I’m passionate about building **games, AI-powered applications, and interactiv
 `Python` · `Java` · `C# (Unity)` · `JavaScript` · `HTML/CSS`  
 
 **AI & ML**  
-`TensorFlow` · `Keras` · `LangChain` · `Ollama` · `OpenAI API`  
+`TensorFlow` · `Keras` · `LangChain` · `Ollama`
 
 **Game Development**  
-`Unity` · `Photon` · `Blender`  
+`Unity` · `Blender`  
 
 **Tools**  
 `Git/GitHub` · `Docker` · `Vercel` · `Ngrok`  
@@ -33,6 +33,18 @@ I’m passionate about building **games, AI-powered applications, and interactiv
 ---
 
 ## 🌟 Featured Projects  
+
+### 🍜 Couple Food Image Classifier  
+> An ML project classifying food origin & taste using **MobileNetV2 + Food101 dataset**.  
+🔗 [Live Demo](https://food-classification-ai.streamlit.app/) 🔗 [Repo Link](https://github.com/maiphh/food-classification) | 🛠 TensorFlow, Python
+
+### 🎮 AI Dungeon Master Game  
+> A text-based RPG powered by **LangChain + Ollama**, where an AI Dungeon Master guides players through dynamic adventures.  
+🔗 [Repo Link](https://github.com/maiphh/ai-rpg) | 🛠 Python, LangChain, Ollama
+
+### 💻 VPS Landing Page (Outsourcing Project)  
+> A **modern landing page** for VPS services, featuring an **AI-powered chatbot assistant** and responsive front-end. Built as an outsourcing project to showcase branding, lead capture, and customer interaction.  
+[Live Demo](https://superfvps.vercel.app/) 🔗 [Repo Link](https://github.com/maiphh/superfvps) | 🛠 React, TailwindCSS, FastAPI, OpenAI API  
 
 ---
 
