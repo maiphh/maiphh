@@ -44,7 +44,7 @@ I’m passionate about building **games, AI-powered applications, and interactiv
 
 ### 💻 VPS Landing Page (Outsourcing Project)  
 > A **modern landing page** for VPS services, featuring an **AI-powered chatbot assistant** and responsive front-end. Built as an outsourcing project to showcase branding, lead capture, and customer interaction.  
-🔗 [Live Demo](https://superfvps.vercel.app/) 🔗 [Repo Link](https://github.com/maiphh/superfvps) | 🛠 React, TailwindCSS, FastAPI, OpenAI API  
+🔗 [Live Demo](https://superfvps.vercel.app/) 🔗 [Repo Link](https://github.com/maiphh/superfvps) | 🛠 TailwindCSS, JS
 
 ---
 
