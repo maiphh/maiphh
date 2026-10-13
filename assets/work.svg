@@ -1,8 +1,8 @@
-<svg viewBox="0 0 920 700" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Selected work — Document OCR, Legal RAG, Data Validation Portal, openPortfo, POET">
+<svg viewBox="0 0 920 748" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Selected work — Document OCR, Legal RAG, Data Validation Portal, openPortfo, POET">
   <path d="M20 28 V20 H28" fill="none" stroke="#000000" stroke-width="1"/>
   <path d="M892 20 H900 V28" fill="none" stroke="#000000" stroke-width="1"/>
-  <path d="M20 672 V680 H28" fill="none" stroke="#000000" stroke-width="1"/>
-  <path d="M892 680 H900 V672" fill="none" stroke="#000000" stroke-width="1"/>
+  <path d="M20 720 V728 H28" fill="none" stroke="#000000" stroke-width="1"/>
+  <path d="M892 728 H900 V720" fill="none" stroke="#000000" stroke-width="1"/>
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="32" y="44" font-size="15" font-weight="700" letter-spacing="1">01 / DOCUMENT OCR</text>
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#555555" x="888" y="44" font-size="11" letter-spacing="2" text-anchor="end">PRIVATE</text>
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="32" y="72" font-size="12.5">Solo. End-to-end pipeline — preprocessing, extraction, post-processing, and template filling —</text>
@@ -32,7 +32,9 @@
   <line x1="32" y1="544" x2="888" y2="544" stroke="#000000" stroke-width="1" opacity="0.35"/>
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="32" y="572" font-size="15" font-weight="700" letter-spacing="1">05 / POET</text>
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="32" y="600" font-size="12.5">Website for POET, a youth charity in Vietnam — tuổi trẻ, nhiệt huyết, nghệ thuật.</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="32" y="620" font-size="12.5">The site tells stories of school visits, games with children, and the days in between.</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="32" y="640" font-size="12.5">Donations are live: a Cloudflare Worker and D1, with PayOS checkout.</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#555555" x="32" y="668" font-size="10" letter-spacing="1.5">HTML · CSS · JAVASCRIPT · CLOUDFLARE WORKERS · D1 · PAYOS</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="32" y="620" font-size="12.5">School visits, games with the children, and the days afterward, told on the site.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="32" y="640" font-size="12.5">Live gifts: notebooks, pens, books, a backpack, or a typed amount in đồng.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="32" y="660" font-size="12.5">A name and a note land on the thank-you wall when PayOS confirms the payment.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="32" y="680" font-size="12.5">A Cloudflare Worker and D1 store each gift. The browser never marks a payment as paid.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#555555" x="32" y="708" font-size="10" letter-spacing="1.5">HTML · CSS · JAVASCRIPT · CLOUDFLARE WORKERS · D1 · PAYOS · GITHUB PAGES</text>
 </svg>

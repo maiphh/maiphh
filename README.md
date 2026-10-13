@@ -45,13 +45,15 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/work.svg"/>
-  <img src="assets/work.svg" alt="Selected work: Document OCR (private), Legal RAG assistant (private), Data Validation Portal (private), openPortfo, POET. POET donations run on a Cloudflare Worker and D1 with PayOS."/>
+  <img src="assets/work.svg" alt="Selected work: Document OCR (private), Legal RAG assistant (private), Data Validation Portal (private), openPortfo, and POET. POET is a youth-charity site with school-visit stories and live gifts — notebooks, pens, books, backpacks — paid through PayOS, stored on a Cloudflare Worker and D1, shown on a thank-you wall."/>
 </picture>
 
 <p align="center">
   <a href="https://github.com/maiphh/openportfo"><strong>openPortfo</strong></a>
   ·
   <a href="https://github.com/maiphh/poet"><strong>POET</strong></a>
+  ·
+  <a href="https://maiphh.github.io/poet/">live</a>
   ·
   Document OCR <em>Private</em>
   ·
@@ -93,8 +95,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/ffffff/maiphh"/>
-  <img src="https://ghchart.rshah.org/000000/maiphh" width="97%" alt="GitHub contribution chart for maiphh"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/contrib.svg"/>
+  <img src="assets/contrib.svg" width="97%" alt="GitHub contribution chart for maiphh, green squares for days with commits."/>
 </picture>
 
 </div>
