@@ -1,0 +1,16 @@
+<svg viewBox="0 0 920 168" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tools — lead stack and earlier tools">
+  <path d="M20 28 V20 H28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M892 20 H900 V28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M20 140 V148 H28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M892 148 H900 V140" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <line x1="128" y1="24" x2="128" y2="144" stroke="#FFFFFF" stroke-width="1" opacity="0.25"/>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="40" font-size="10" letter-spacing="2.5">LEAD</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="148" y="40" font-size="13">Python · vision-language models · RAG · document OCR · FastAPI</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="148" y="64" font-size="13">AWS (DynamoDB, S3, Elastic Beanstalk) · JavaScript · HTML/CSS · Docker · Git</text>
+
+  <line x1="148" y1="88" x2="888" y2="88" stroke="#FFFFFF" stroke-width="1" opacity="0.2"/>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="120" font-size="10" letter-spacing="2.5">EARLIER</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="148" y="120" font-size="13">Java · C# / Unity · TensorFlow · LangChain · Ollama · Blender</text>
+</svg>

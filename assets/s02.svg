@@ -1,0 +1,10 @@
+<svg viewBox="0 0 920 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Section 02 — SELECTED WORK">
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#D0D0D0" x="32" y="56" font-size="44">02</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="112" y="48" font-size="13" letter-spacing="5">SELECTED WORK</text>
+  <g transform="translate(301.78 44)">
+    <line x1="-4" y1="0" x2="4" y2="0" stroke="#000000" stroke-width="1"/>
+    <line x1="0" y1="-4" x2="0" y2="4" stroke="#000000" stroke-width="1"/>
+  </g>
+  <line x1="313.78" y1="44" x2="720" y2="44" stroke="#000000" stroke-width="1"/>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#555555" x="888" y="48" font-size="10" letter-spacing="2" text-anchor="end">02 / WORK</text>
+</svg>

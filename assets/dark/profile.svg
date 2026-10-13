@@ -1,0 +1,17 @@
+<svg viewBox="0 0 920 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile — AI engineer building document intelligence, retrieval, and automation">
+  <path d="M20 28 V20 H28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M892 20 H900 V28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M20 192 V200 H28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M892 200 H900 V192" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="40" font-size="14">AI engineer building document intelligence, retrieval, and automation.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="68" font-size="14">Previously shipped game modes at Garena Free Fire Craftland.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="96" font-size="14">Studying artificial intelligence at RMIT University in Ho Chi Minh City.</text>
+
+  <line x1="32" y1="120" x2="888" y2="120" stroke="#FFFFFF" stroke-width="1" opacity="0.35"/>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="152" font-size="10" letter-spacing="2.5">FOCUS</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="120" y="152" font-size="13">document OCR · legal RAG · operational automation</text>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="184" font-size="10" letter-spacing="2.5">BASE</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="120" y="184" font-size="13">Ho Chi Minh City, Vietnam · Talentnet · RMIT</text>
+</svg>

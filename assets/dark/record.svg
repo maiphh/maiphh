@@ -1,0 +1,34 @@
+<svg viewBox="0 0 920 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Record — education at RMIT and employment at Talentnet and Garena">
+  <path d="M20 28 V20 H28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M892 20 H900 V28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M20 492 V500 H28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M892 500 H900 V492" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="36" font-size="10" letter-spacing="3">EDUCATION</text>
+  <line x1="140" y1="32" x2="888" y2="32" stroke="#FFFFFF" stroke-width="1" opacity="0.25"/>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="68" font-size="14">Master of Artificial Intelligence · RMIT University</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="90" font-size="12">2025 – 2028 · in progress</text>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="126" font-size="14">Bachelor of Information Technology · RMIT University</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="148" font-size="12">2021 – 2024 · GPA 3.7 / 4.0</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="172" font-size="12.5">Scholar's List for Academic Excellence — top 5% of graduating students by GPA</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="194" font-size="12.5">Ranked top 10 among Bachelor of Information Technology graduates</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="216" font-size="12.5">IELTS 7.0</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="238" font-size="12.5">2nd Runner-Up, Neo League 2025 — competitive AI challenge, ~100 teams across HCMC</text>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="284" font-size="10" letter-spacing="3">EMPLOYMENT</text>
+  <line x1="156" y1="280" x2="888" y2="280" stroke="#FFFFFF" stroke-width="1" opacity="0.25"/>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="316" font-size="11" letter-spacing="1">SEP 2025 – PRESENT</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="220" y="316" font-size="14">Talentnet · AI Engineer Specialist</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="342" font-size="12.5">Designs and builds AI tools and automation that cut manual work and speed up digital operations.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="364" font-size="12.5">Also payroll data validation — client rules turned into code so payroll generation no longer</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="386" font-size="12.5">depends on a manual checker.</text>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="426" font-size="11" letter-spacing="1">DEC 2023 – SEP 2025</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="220" y="426" font-size="14">Garena – Free Fire · Game Developer</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="452" font-size="12.5">Developed 14 game modes for Garena Free Fire Craftland. Two were officially featured on the</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="474" font-size="12.5">mode selection page beside official modes. About 6.2 million positive interactions on the</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="496" font-size="12.5">Vietnam server.</text>
+</svg>

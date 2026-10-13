@@ -1,57 +1,103 @@
-# 👋 Hi, I'm Mai Gia Phu  
+<div align="center">
 
-🎮 Game Developer | 🤖 AI Enthusiast | 💻 Software Engineer  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/>
+  <img src="assets/header.svg" alt="Lucas Mai — AI Engineer, Ho Chi Minh City. Formal name Mai Gia Phu. Focus: document intelligence, retrieval, automation."/>
+</picture>
 
-I’m passionate about building **games, AI-powered applications, and interactive experiences** that merge creativity with technology. With 2+ years of game development experience and a strong academic background, I aim to create impactful projects that entertain and solve real-world problems.  
+<br/>
 
----
+<a href="https://github.com/maiphh">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/>
+  </picture>
+</a>
+<a href="https://www.linkedin.com/in/phumai29/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
+  </picture>
+</a>
+<a href="mailto:maiphh29@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logoColor=000000" alt="Email"/>
+  </picture>
+</a>
 
-## 🚀 About Me  
-- 🎓 **Bachelor of Information Technology, RMIT University (2021–2024)**  
-  - GPA: **3.7/4.0** | Scholar’s List (Top 5%) | Ranked Top 10 in IT graduates  
-- 🏆 **2nd Runner-Up, Neo League 2025 (AI Challenge, all universities in HCMC)**  
-- 💼 **Game Developer at Garena (Free Fire Craftland)**  
-  - Developed **14 game modes**, with 2 featured on the official mode selection page  
-  - Earned **6.2M+ positive interactions** from players in Vietnam server  
-- 🔬 Passionate about **AI + Games**, exploring AI-driven storytelling, procedural generation, and machine learning applications.  
+</div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/>
+  <img src="assets/s01.svg" alt="01 — PROFILE"/>
+</picture>
 
-## 🛠️ Tech Stack  
-**Languages & Frameworks**  
-`Python` · `Java` · `C# (Unity)` · `JavaScript` · `HTML/CSS`  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/profile.svg"/>
+  <img src="assets/profile.svg" alt="AI engineer building document intelligence, retrieval, and automation. Previously shipped game modes at Garena. Studying AI at RMIT in Ho Chi Minh City."/>
+</picture>
 
-**AI & ML**  
-`TensorFlow` · `Keras` · `LangChain` · `Ollama`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/>
+  <img src="assets/s02.svg" alt="02 — SELECTED WORK"/>
+</picture>
 
-**Game Development**  
-`Unity` · `Blender`  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/work.svg"/>
+  <img src="assets/work.svg" alt="Selected work: Document OCR (private), Legal RAG assistant (private), openPortfo, POET."/>
+</picture>
 
-**Tools**  
-`Git/GitHub` · `Docker` · `Vercel` · `Ngrok`  
+<p align="center">
+  <a href="https://github.com/maiphh/openportfo"><strong>openPortfo</strong></a>
+  ·
+  <a href="https://github.com/maiphh/poet"><strong>POET</strong></a>
+  ·
+  Document OCR <em>Private</em>
+  ·
+  Legal RAG <em>Private</em>
+</p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/>
+  <img src="assets/s03.svg" alt="03 — RECORD"/>
+</picture>
 
-## 🌟 Featured Projects  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/record.svg"/>
+  <img src="assets/record.svg" alt="Education: Master of AI at RMIT (2025–2028), Bachelor of IT (2021–2024, GPA 3.7/4.0, Scholar's List, top 10). Employment: Talentnet AI Engineer Specialist; Garena Free Fire Game Developer."/>
+</picture>
 
-### 🍜 Couple Food Image Classifier  
-> An ML project classifying food origin & taste using **MobileNetV2 + Food101 dataset**.  
-🔗 [Live Demo](https://food-classification-ai.streamlit.app/) 🔗 [Repo Link](https://github.com/maiphh/food-classification) | 🛠 TensorFlow, Python
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/>
+  <img src="assets/s04.svg" alt="04 — TOOLS"/>
+</picture>
 
-### 🎮 AI Dungeon Master Game  
-> A text-based RPG powered by **LangChain + Ollama**, where an AI Dungeon Master guides players through dynamic adventures.  
-🔗 [Repo Link](https://github.com/maiphh/ai-rpg) | 🛠 Python, LangChain, Ollama
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/tools.svg"/>
+  <img src="assets/tools.svg" alt="Lead tools: Python, vision-language models, RAG, document OCR, FastAPI, AWS, JavaScript, HTML/CSS, Docker, Git. Earlier: Java, C#/Unity, TensorFlow, LangChain, Ollama, Blender."/>
+</picture>
 
-### 💻 VPS Landing Page (Outsourcing Project)  
-> A **modern landing page** for VPS services, featuring an **AI-powered chatbot assistant** and responsive front-end. Built as an outsourcing project to showcase branding, lead capture, and customer interaction.  
-🔗 [Live Demo](https://superfvps.vercel.app/) 🔗 [Repo Link](https://github.com/maiphh/superfvps) | 🛠 TailwindCSS, JS
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=maiphh&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maiphh&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub stats for maiphh"/>
+</picture>
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/phumai29/)  
-- ✉️ Email: maiphh29@gmail.com 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=maiphh&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiphh&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" alt="Top languages for maiphh"/>
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=maiphh&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=ACTIVITY"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiphh&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=ACTIVITY" width="97%" alt="GitHub contribution activity for maiphh"/>
+</picture>
 
-⭐️ “I build experiences where **technology meets creativity**.”  
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/>
+  <img src="assets/footer.svg" alt="Status — shipping. Document intelligence, retrieval, automation. maiphh · Ho Chi Minh City."/>
+</picture>

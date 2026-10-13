@@ -1,0 +1,11 @@
+<svg viewBox="0 0 920 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Status — building in Ho Chi Minh City">
+  <line x1="32" y1="20" x2="888" y2="20" stroke="#000000" stroke-width="1"/>
+    <g transform="translate(48 52)">
+    <line x1="-4" y1="0" x2="4" y2="0" stroke="#000000" stroke-width="1"/>
+    <line x1="0" y1="-4" x2="0" y2="4" stroke="#000000" stroke-width="1"/>
+  </g>
+  <circle cx="48" cy="52" r="2" fill="#000000"/>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#000000" x="68" y="48" font-size="12" letter-spacing="3">STATUS — SHIPPING</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#555555" x="68" y="70" font-size="11" letter-spacing="1.5">document intelligence · retrieval · automation</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#555555" x="888" y="56" font-size="11" letter-spacing="1.5" text-anchor="end">maiphh · Ho Chi Minh City · 2025</text>
+</svg>
