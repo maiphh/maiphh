@@ -1,8 +1,8 @@
-<svg viewBox="0 0 920 568" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Selected work — Document OCR, Legal RAG, openPortfo, POET">
+<svg viewBox="0 0 920 700" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Selected work — Document OCR, Legal RAG, Data Validation Portal, openPortfo, POET">
   <path d="M20 28 V20 H28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
   <path d="M892 20 H900 V28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
-  <path d="M20 532 V548 H28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
-  <path d="M892 548 H900 V540" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M20 672 V680 H28" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+  <path d="M892 680 H900 V672" fill="none" stroke="#FFFFFF" stroke-width="1"/>
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="44" font-size="15" font-weight="700" letter-spacing="1">01 / DOCUMENT OCR</text>
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="888" y="44" font-size="11" letter-spacing="2" text-anchor="end">PRIVATE</text>
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="72" font-size="12.5">Solo. End-to-end pipeline — preprocessing, extraction, post-processing, and template filling —</text>
@@ -17,15 +17,22 @@
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="244" font-size="12.5">mid-paragraph. The agent returns the source document with citable references.</text>
   <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="272" font-size="10" letter-spacing="1.5">RAG · TAG CHUNKING · LEGAL RETRIEVAL · SOLO</text>
   <line x1="32" y1="280" x2="888" y2="280" stroke="#FFFFFF" stroke-width="1" opacity="0.35"/>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="308" font-size="15" font-weight="700" letter-spacing="1">03 / OPENPORTFO</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="336" font-size="12.5">Cloud-based crypto and Vietnam stock portfolio tracker. FastAPI backend, optional Vite UI,</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="356" font-size="12.5">DynamoDB and S3 (local AWS via LocalStack), Elastic Beanstalk deploy path. Python.</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="376" font-size="12.5">Built as RMIT Cloud Computing coursework.</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="404" font-size="10" letter-spacing="1.5">PYTHON · FASTAPI · AWS · DYNAMODB · S3 · LOCALSTACK</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="308" font-size="15" font-weight="700" letter-spacing="1">03 / DATA VALIDATION PORTAL</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="888" y="308" font-size="11" letter-spacing="2" text-anchor="end">PRIVATE</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="336" font-size="12.5">Portal for payroll data validation. Each client brings its own rules and spreadsheet formats.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="356" font-size="12.5">Plain-language rules become executable checks and calculations. It reads Excel and PDF inputs,</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="376" font-size="12.5">then returns salary reports and a validation result — replacing the manual checker.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="404" font-size="10" letter-spacing="1.5">NEXT.JS · FASTAPI · POSTGRESQL · LLM RULES · PAYROLL</text>
   <line x1="32" y1="412" x2="888" y2="412" stroke="#FFFFFF" stroke-width="1" opacity="0.35"/>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="440" font-size="15" font-weight="700" letter-spacing="1">04 / POET</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="468" font-size="12.5">Website for POET, a youth charity in Vietnam — tuổi trẻ, nhiệt huyết, nghệ thuật.</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="488" font-size="12.5">The site tells stories of school visits, games with children, and the days in between.</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="508" font-size="12.5">Static HTML, CSS, and JavaScript.</text>
-  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="536" font-size="10" letter-spacing="1.5">HTML · CSS · JAVASCRIPT · STATIC</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="440" font-size="15" font-weight="700" letter-spacing="1">04 / OPENPORTFO</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="468" font-size="12.5">Cloud-based crypto and Vietnam stock portfolio tracker. FastAPI backend, optional Vite UI,</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="488" font-size="12.5">DynamoDB and S3 (local AWS via LocalStack), Elastic Beanstalk deploy path. Python.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="508" font-size="12.5">Built as RMIT Cloud Computing coursework.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="536" font-size="10" letter-spacing="1.5">PYTHON · FASTAPI · AWS · DYNAMODB · S3 · LOCALSTACK</text>
+  <line x1="32" y1="544" x2="888" y2="544" stroke="#FFFFFF" stroke-width="1" opacity="0.35"/>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="572" font-size="15" font-weight="700" letter-spacing="1">05 / POET</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="600" font-size="12.5">Website for POET, a youth charity in Vietnam — tuổi trẻ, nhiệt huyết, nghệ thuật.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="620" font-size="12.5">The site tells stories of school visits, games with children, and the days in between.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#FFFFFF" x="32" y="640" font-size="12.5">Static HTML, CSS, and JavaScript.</text>
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#AAAAAA" x="32" y="668" font-size="10" letter-spacing="1.5">HTML · CSS · JAVASCRIPT · STATIC</text>
 </svg>

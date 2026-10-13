@@ -45,7 +45,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/work.svg"/>
-  <img src="assets/work.svg" alt="Selected work: Document OCR (private), Legal RAG assistant (private), openPortfo, POET."/>
+  <img src="assets/work.svg" alt="Selected work: Document OCR (private), Legal RAG assistant (private), Data Validation Portal (private), openPortfo, POET."/>
 </picture>
 
 <p align="center">
@@ -56,6 +56,8 @@
   Document OCR <em>Private</em>
   ·
   Legal RAG <em>Private</em>
+  ·
+  Data Validation Portal <em>Private</em>
 </p>
 
 <picture>
@@ -75,7 +77,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/tools.svg"/>
-  <img src="assets/tools.svg" alt="Lead tools: Python, vision-language models, RAG, document OCR, FastAPI, AWS, JavaScript, HTML/CSS, Docker, Git. Earlier: Java, C#/Unity, TensorFlow, LangChain, Ollama, Blender."/>
+  <img src="assets/tools.svg" alt="Lead tools: Python, vision-language models, RAG, document OCR, FastAPI, Next.js, PostgreSQL, AWS, JavaScript, HTML/CSS, Docker, Git. Earlier: Java, C#/Unity, TensorFlow, LangChain, Ollama, Blender."/>
 </picture>
 
 <div align="center">
