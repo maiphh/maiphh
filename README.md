@@ -45,7 +45,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/work.svg"/>
-  <img src="assets/work.svg" alt="Selected work: Document OCR (private), Legal RAG assistant (private), Data Validation Portal (private), openPortfo, POET."/>
+  <img src="assets/work.svg" alt="Selected work: Document OCR (private), Legal RAG assistant (private), Data Validation Portal (private), openPortfo, POET. POET donations run on a Cloudflare Worker and D1 with PayOS."/>
 </picture>
 
 <p align="center">
@@ -77,7 +77,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/tools.svg"/>
-  <img src="assets/tools.svg" alt="Lead tools: Python, vision-language models, RAG, document OCR, FastAPI, Next.js, PostgreSQL, AWS, JavaScript, HTML/CSS, Docker, Git. Earlier: Java, C#/Unity, TensorFlow, LangChain, Ollama, Blender."/>
+  <img src="assets/tools.svg" alt="Lead tools: Python, vision-language models, RAG, document OCR, FastAPI, Next.js, PostgreSQL, AWS, JavaScript, HTML/CSS, Cloudflare Workers, D1, PayOS, Docker, Git. Earlier: Java, C#/Unity, TensorFlow, LangChain, Ollama, Blender."/>
 </picture>
 
 <div align="center">
@@ -93,8 +93,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=maiphh&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=ACTIVITY"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiphh&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=ACTIVITY" width="97%" alt="GitHub contribution activity for maiphh"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/ffffff/maiphh"/>
+  <img src="https://ghchart.rshah.org/000000/maiphh" width="97%" alt="GitHub contribution chart for maiphh"/>
 </picture>
 
 </div>
